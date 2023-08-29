@@ -1,10 +1,15 @@
 # Test_Rooms_and_Corners
-test task about: /n
-function “draw_plots”: /n
-→ reads json file passed as parameter as a pandas dataframe /n
-→ draws plot for comparing different columns /n
-→ saves plots in a folder called “plots” /n
-→ returns paths to all plots /n
+test task about:
+
+function “draw_plots”:
+
+→ reads json file passed as parameter as a pandas dataframe
+
+→ draws plot for comparing different columns
+
+→ saves plots in a folder called “plots”
+
+→ returns paths to all plots
 
 ## Start
 1. Clone project
